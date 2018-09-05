@@ -2,93 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe8a663-c5d7-4732-bfca-fea83e895419" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/dev-runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.main.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.renderer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.electron-vue/webpack.web.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/99817762-1a0f-4855-ac0e-0567f7c96d89.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/99817762-1a0f-4855-ac0e-0567f7c96d89/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lessonsEditor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/build/icons/256x256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/build/icons/icon.icns" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/build/icons/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/dist/electron/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/main/index.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/LabCategoryTask.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/LabCategoryTasks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/Labs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/LabsCategories.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/LandingPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/components/LandingPage/SystemInformation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/scss/minima.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/store/modules/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/src/renderer/store/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/e2e/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/e2e/specs/Launch.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/e2e/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/unit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/unit/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/test/unit/specs/LandingPage.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/index.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LabCategoryTask.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LabCategoryTasks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/Labs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LabsCategories.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/scss/labs/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/scss/minima.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/scss/minima/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/scss/minima/_layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/scss/minima/_syntax-highlighting.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/modules/Counter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer/store/modules/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/specs/Launch.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/unit/specs/LandingPage.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/LabCategoryTask.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/LabCategoryTask.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/LabCategoryTasks.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/LabCategoryTasks.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/scss/labs/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/scss/labs/_main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,11 +31,14 @@
     <session id="528417898">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -154,7 +74,7 @@
           <entry key="scss" value="47" />
           <entry key="sql" value="44" />
           <entry key="txt" value="7" />
-          <entry key="vue" value="4635" />
+          <entry key="vue" value="4830" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -165,7 +85,7 @@
           <entry key="SCSS" value="47" />
           <entry key="SQL" value="9" />
           <entry key="Scratch" value="60" />
-          <entry key="Vue.js" value="4626" />
+          <entry key="Vue.js" value="4821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -176,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/renderer/components/LabCategoryTasks.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+            <state relative-caret-position="1326">
+              <caret line="106" column="67" selection-start-line="106" selection-start-column="67" selection-end-line="106" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -185,11 +105,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/renderer/components/LabCategoryTask.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="-1">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/renderer/scss/labs/_main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="225" column="8" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="34" />
+            <state relative-caret-position="4403">
+              <caret line="259" selection-start-line="259" selection-end-line="259" />
             </state>
           </provider>
         </entry>
@@ -308,10 +227,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="8" />
+    <option name="x" value="12" />
     <option name="y" value="114" />
-    <option name="width" value="1880" />
-    <option name="height" value="779" />
+    <option name="width" value="1870" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -475,15 +394,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="0" y="24" width="1920" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21884984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40350878" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +411,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33004385" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32968238" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -500,7 +419,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Cargo" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.32960597" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.2454739" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -555,9 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="80" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
-          <folding>
-            <element signature="e#217#240#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,17 +501,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/tasks">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/tasks" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/99817762-1a0f-4855-ac0e-0567f7c96d89/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="54" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/student_task" />
+    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/students" />
+    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/groups" />
+    <entry file="file://$PROJECT_DIR$/src/renderer/scss/labs/_main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4403">
+          <caret line="259" selection-start-line="259" selection-end-line="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/renderer/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -620,56 +547,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/student_task">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/students">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://99817762-1a0f-4855-ac0e-0567f7c96d89/schema/main/table/groups">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/renderer/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/renderer/scss/labs/_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="225" column="8" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/components/LabCategoryTask.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="-1">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/components/LabCategoryTasks.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+        <state relative-caret-position="1326">
+          <caret line="106" column="67" selection-start-line="106" selection-start-column="67" selection-end-line="106" selection-end-column="67" />
         </state>
       </provider>
     </entry>
