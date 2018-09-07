@@ -7,6 +7,7 @@
                              :students="students"
                              :task="t" v-for="(t, index) in tasksOrdered"
                              @studentBindingRemove="onStudentBindingRemove"
+                             @studentTaskDone="onStudentTaskDone"
                              @addStudentClick="onAddStudentClick(t)"></LabCategoryTask>
         </div>
         <div class="modal fade" id="addStudentModal" tabindex="-1" role="dialog">
@@ -54,6 +55,7 @@
   const katex = require('remark-html-katex');// Use remark-html-katex
   const html = require('remark-html');
   import _ from 'lodash';
+  import moment from 'moment';
 
   require("bootstrap");
 
@@ -125,7 +127,10 @@
             if (data[row.task_id] == null) {
               data[row.task_id] = []
             }
-            data[row.task_id].push(that.students[row.student_id]);
+            data[row.task_id].push({
+              student: that.students[row.student_id],
+              done_at: row.done_at
+            });
           })
           this.studentTasksAssociations = data;
         });
@@ -150,6 +155,11 @@
       },
       onStudentBindingRemove(task, student) {
         db.run(`DELETE FROM student_task WHERE student_id = ${student.id} and task_id = ${task.id}`);
+        this.fetchStudentTaskAssociations();
+      },
+      onStudentTaskDone(task, student) {
+        let dt = moment(new Date()).format("YYYY-MM-DD");
+        db.run(`UPDATE student_task SET done_at = CASE WHEN done_at is NOT NULL THEN NULL ELSE '${dt}' END WHERE student_id = ${student.id} and task_id = ${task.id}`);
         this.fetchStudentTaskAssociations();
       }
     }
